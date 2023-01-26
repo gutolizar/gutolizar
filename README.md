@@ -19,6 +19,7 @@
   <img align="center" alt=html5 src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img align="center" alt=html5 src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> 
   <img align="center" alt=html5 src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">    
+  <img align="center" alt=batman src="https://images6.fanpop.com/image/photos/44300000/The-Batman-2022-batman-44353107-500-412.gif">
 </div><br/>
 
 I like to be challenged and pushed to evolve.
