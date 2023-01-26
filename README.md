@@ -1,6 +1,6 @@
 ### Hello! I'm Luiz Alves ✌️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-augusto-jacob-alves-1664ba48/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gutolizar-1664ba48/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com)
 
 ![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=gutolizar&show_icons=true&theme=cobalt)
