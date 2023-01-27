@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com)
 
 ![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=gutolizar&show_icons=true&theme=cobalt)
-<img align="right" alt=Hackerman src="[https://imgur.com/rtAXdmm](https://i.imgur.com/rtAXdmm.gif)">
+<img align="right" alt=Hackerman src="https://i.imgur.com/rtAXdmm.gif">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies i use:
