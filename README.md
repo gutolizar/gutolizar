@@ -18,7 +18,8 @@
   <img align="center" alt=html5 src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
   <img align="center" alt=html5 src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img align="center" alt=html5 src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> 
-  <img align="center" alt=html5 src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">    
+  <img align="center" alt=html5 src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"> 
+  <img align="center" alt="html5" src="https://shields.io/badge/chakra--ui-black?logo=chakraui&style=for-the-badge">
   
 </div><br/>
 
